@@ -3,7 +3,7 @@
 --- 
 
 ## 💻 - Tecnologies
-### ⭐ | Here you can see some of the technologies I use, from the simplest to the most bizarre ;)
+### ⭐ | Here you can see some of the technologies i use on my workflows ;) 
 
 #### 🎨 - Front-end
 
