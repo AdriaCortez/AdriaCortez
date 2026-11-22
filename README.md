@@ -2,6 +2,10 @@
 ### ⭐ | I'm Adria! Full-cycle web developer! Building applications from development to deploy ☁️
 --- 
 
+<p align="center">
+  <img src="./assets/lirium.gif" width="100%">
+</p>
+
 ## 💻 - Tecnologies
 ### ⭐ | Here you can see some of the technologies i use on my workflows ;) 
 
