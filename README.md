@@ -2,7 +2,7 @@
 ### ⭐ | I'm Adria! Full-cycle web developer! Building applications from development to deploy ☁️
 --- 
 
-<p align="center">
+<p align="left">
   <img src="./assets/lirium.gif" width="100%">
 </p>
 
