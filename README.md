@@ -1,5 +1,5 @@
-# Welcome to my profile!
-### ⭐ | I'm Adria! Full-cycle web developer! Building applications from development to deploy ☁️
+# Welcome little arthropod!
+### ❤️ | I'm Adria! Full-cycle web developer! Building applications from development to deploy 🌹
 --- 
 
 <p align="left">
@@ -7,7 +7,18 @@
 </p>
 
 ## 💻 - Tecnologies
-### ⭐ | Here you can see some of the technologies i use on my workflows ;) 
+### ❤️ | Here you can see some of the technologies i use on my workflows ;) 
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdriaCortez&theme=github_dark&title_color=FF6B81&text_color=F5F5F5&bg_color=000000&border_color=8B1E2D&chart_color=E63946"
+    width="45%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdriaCortez&theme=github_dark&title_color=FF6B81&text_color=F5F5F5&bg_color=000000&border_color=8B1E2D&chart_color=E63946"
+    width="45%"
+  />
+</p>
 
 #### 🎨 - Front-end
 
