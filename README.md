@@ -3,7 +3,7 @@
 --- 
 
 <p align="left">
-  <img src="./assets/lirium.gif" width="100%">
+  <img src="./assets/lirium.png" width="100%">
 </p>
 
 ## 💻 - Tecnologies
