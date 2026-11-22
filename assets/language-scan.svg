@@ -1,0 +1,268 @@
+
+    <svg xmlns="http://www.w3.org/2000/svg"
+         width="520"
+         height="370"
+         viewBox="0 0 520 370">
+
+      <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#110B0E"/>
+          <stop offset="100%" stop-color="#090909"/>
+        </linearGradient>
+      </defs>
+
+      <rect width="520" height="370"
+            rx="14"
+            fill="url(#bg)"
+            stroke="#641528"/>
+
+      <rect x="1" y="1" width="518" height="3"
+            rx="2" fill="#E63946"/>
+
+      <rect x="464" y="18" width="3" height="3" fill="#FF6B81"/><rect x="467" y="18" width="3" height="3" fill="#E63946"/><rect x="461" y="21" width="3" height="3" fill="#E63946"/><rect x="464" y="21" width="3" height="3" fill="#FFB3C1"/><rect x="467" y="21" width="3" height="3" fill="#E63946"/><rect x="470" y="21" width="3" height="3" fill="#3D0718"/><rect x="464" y="24" width="3" height="3" fill="#E63946"/><rect x="467" y="24" width="3" height="3" fill="#FF6B81"/><rect x="467" y="27" width="3" height="3" fill="#E63946"/><rect x="467" y="30" width="3" height="3" fill="#5F8A43"/><rect x="464" y="33" width="3" height="3" fill="#5F8A43"/><rect x="467" y="33" width="3" height="3" fill="#5F8A43"/><rect x="470" y="36" width="3" height="3" fill="#5F8A43"/>
+
+      <text x="28" y="29"
+            fill="#FF6B81"
+            font-size="10"
+            font-family="monospace"
+            letter-spacing="2">
+        BLOOD GARDEN.exe
+      </text>
+
+      <text x="28" y="62"
+            fill="#F5F0F2"
+            font-size="23"
+            font-weight="bold"
+            font-family="sans-serif">
+        LANGUAGE SCAN
+      </text>
+
+      <text x="28" y="83"
+            fill="#A99AA2"
+            font-size="10"
+            font-family="monospace">
+        BYTE DISTRIBUTION // ALL PUBLIC REPOSITORIES
+      </text>
+    
+        <text x="30" y="125"
+              fill="#F5F0F2"
+              font-size="12"
+              font-family="sans-serif">
+            TypeScript
+        </text>
+
+        <text x="490" y="125"
+              fill="#FF6B81"
+              font-size="11"
+              text-anchor="end"
+              font-family="monospace">
+            55.6%
+        </text>
+
+        <rect x="30" y="135"
+              width="460" height="8"
+              rx="4"
+              fill="#302128"/>
+
+        <rect x="30" y="135"
+              width="205.72" height="8"
+              rx="4"
+              fill="#3178C6"/>
+        
+        <text x="30" y="156"
+              fill="#F5F0F2"
+              font-size="12"
+              font-family="sans-serif">
+            Shell
+        </text>
+
+        <text x="490" y="156"
+              fill="#FF6B81"
+              font-size="11"
+              text-anchor="end"
+              font-family="monospace">
+            21.6%
+        </text>
+
+        <rect x="30" y="166"
+              width="460" height="8"
+              rx="4"
+              fill="#302128"/>
+
+        <rect x="30" y="166"
+              width="79.76" height="8"
+              rx="4"
+              fill="#89E051"/>
+        
+        <text x="30" y="187"
+              fill="#F5F0F2"
+              font-size="12"
+              font-family="sans-serif">
+            JavaScript
+        </text>
+
+        <text x="490" y="187"
+              fill="#FF6B81"
+              font-size="11"
+              text-anchor="end"
+              font-family="monospace">
+            12.3%
+        </text>
+
+        <rect x="30" y="197"
+              width="460" height="8"
+              rx="4"
+              fill="#302128"/>
+
+        <rect x="30" y="197"
+              width="45.47" height="8"
+              rx="4"
+              fill="#F1E05A"/>
+        
+        <text x="30" y="218"
+              fill="#F5F0F2"
+              font-size="12"
+              font-family="sans-serif">
+            CSS
+        </text>
+
+        <text x="490" y="218"
+              fill="#FF6B81"
+              font-size="11"
+              text-anchor="end"
+              font-family="monospace">
+            4.8%
+        </text>
+
+        <rect x="30" y="228"
+              width="460" height="8"
+              rx="4"
+              fill="#302128"/>
+
+        <rect x="30" y="228"
+              width="17.72" height="8"
+              rx="4"
+              fill="#563D7C"/>
+        
+        <text x="30" y="249"
+              fill="#F5F0F2"
+              font-size="12"
+              font-family="sans-serif">
+            HTML
+        </text>
+
+        <text x="490" y="249"
+              fill="#FF6B81"
+              font-size="11"
+              text-anchor="end"
+              font-family="monospace">
+            3.2%
+        </text>
+
+        <rect x="30" y="259"
+              width="460" height="8"
+              rx="4"
+              fill="#302128"/>
+
+        <rect x="30" y="259"
+              width="11.97" height="8"
+              rx="4"
+              fill="#E34C26"/>
+        
+        <text x="30" y="280"
+              fill="#F5F0F2"
+              font-size="12"
+              font-family="sans-serif">
+            Python
+        </text>
+
+        <text x="490" y="280"
+              fill="#FF6B81"
+              font-size="11"
+              text-anchor="end"
+              font-family="monospace">
+            1.7%
+        </text>
+
+        <rect x="30" y="290"
+              width="460" height="8"
+              rx="4"
+              fill="#302128"/>
+
+        <rect x="30" y="290"
+              width="6.22" height="8"
+              rx="4"
+              fill="#3572A5"/>
+        
+        <text x="30" y="311"
+              fill="#F5F0F2"
+              font-size="12"
+              font-family="sans-serif">
+            C
+        </text>
+
+        <text x="490" y="311"
+              fill="#FF6B81"
+              font-size="11"
+              text-anchor="end"
+              font-family="monospace">
+            0.4%
+        </text>
+
+        <rect x="30" y="321"
+              width="460" height="8"
+              rx="4"
+              fill="#302128"/>
+
+        <rect x="30" y="321"
+              width="1.37" height="8"
+              rx="4"
+              fill="#555555"/>
+        
+        <text x="30" y="342"
+              fill="#F5F0F2"
+              font-size="12"
+              font-family="sans-serif">
+            Other
+        </text>
+
+        <text x="490" y="342"
+              fill="#FF6B81"
+              font-size="11"
+              text-anchor="end"
+              font-family="monospace">
+            0.5%
+        </text>
+
+        <rect x="30" y="352"
+              width="460" height="8"
+              rx="4"
+              fill="#302128"/>
+
+        <rect x="30" y="352"
+              width="1.77" height="8"
+              rx="4"
+              fill="#F08090"/>
+        
+    <text x="30" y="347"
+          fill="#A99AA2"
+          font-size="9"
+          font-family="monospace">
+        TOTAL BYTES: 835,813
+    </text>
+    
+      <line x1="28" y1="360" x2="492" y2="360"
+            stroke="#641528"
+            stroke-width="1"/>
+
+      <text x="28" y="382"
+            fill="#FF6B81"
+            font-size="9"
+            font-family="monospace">
+        SYSTEM STATUS // CULTIVATING CODE
+      </text>
+
+      <rect x="360" y="368" width="8" height="6" rx="2" fill="#3D0718"/><path d="M362 374 l-2 4 M366 374 l2 4" stroke="#FF6B81" stroke-width="1.5" fill="none"/><rect x="370" y="370" width="8" height="6" rx="2" fill="#E63946"/><path d="M372 376 l-2 4 M376 376 l2 4" stroke="#FF6B81" stroke-width="1.5" fill="none"/><rect x="380" y="368" width="8" height="6" rx="2" fill="#FF6B81"/><path d="M382 374 l-2 4 M386 374 l2 4" stroke="#FF6B81" stroke-width="1.5" fill="none"/><rect x="390" y="370" width="8" height="6" rx="2" fill="#E63946"/><path d="M392 376 l-2 4 M396 376 l2 4" stroke="#FF6B81" stroke-width="1.5" fill="none"/><rect x="400" y="368" width="8" height="6" rx="2" fill="#3D0718"/><path d="M402 374 l-2 4 M406 374 l2 4" stroke="#FF6B81" stroke-width="1.5" fill="none"/><rect x="410" y="370" width="8" height="6" rx="2" fill="#E63946"/><path d="M412 376 l-2 4 M416 376 l2 4" stroke="#FF6B81" stroke-width="1.5" fill="none"/><rect x="420" y="368" width="8" height="6" rx="2" fill="#FF6B81"/><path d="M422 374 l-2 4 M426 374 l2 4" stroke="#FF6B81" stroke-width="1.5" fill="none"/><circle cx="430" cy="370" r="4" fill="#E63946"/>
+
+    </svg>
+    
