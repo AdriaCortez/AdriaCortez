@@ -9,14 +9,21 @@
 ## 💻 - Tecnologies
 ### ❤️ | Here you can see some of the technologies i use on my workflows ;) 
 
-<p align="flex">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdriaCortez&theme=github_dark&title_color=FF6B81&text_color=F5F5F5&bg_color=000000&border_color=8B1E2D&chart_color=E63946"
-    width="45%"
-  /> <p align="flex">  <img
-    src="https://github-readme-stats.vercel.app/api?username=AdriaCortez&show_icons=true&theme=transparent&bg_color=090909&title_color=E63946&icon_color=FF6B81&text_color=F5F0F2&border_color=3D0718&hide_border=false"
-    alt="GitHub Statistics"
-  />
+
+## 03. GITHUB MONITORING
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="./assets/language-scan.svg" width="400" alt="Language Scan">
+      </td>
+      <td>
+        <img src="./assets/commit-activity.svg" width="400" alt="Commit Activity">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -53,25 +60,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
----
-
-## 03. GITHUB MONITORING
-
-<div align="center">
-
-<img
-  src="./assets/language-scan.svg"
-  width="49%"
-  alt="Language distribution by bytes"
-/>
-
-<img
-  src="./assets/commit-activity.svg"
-  width="49%"
-  alt="Commit activity by repository language"
-/>
-
-</div>
 
 ---
 
