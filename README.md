@@ -9,11 +9,11 @@
 ## 💻 - Tecnologies
 ### ❤️ | Here you can see some of the technologies i use on my workflows ;) 
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdriaCortez&theme=github_dark&title_color=FF6B81&text_color=F5F5F5&bg_color=000000&border_color=8B1E2D&chart_color=E63946"
     width="45%"
-  /> <p align="center">  <img
+  /> <p align="flex">  <img
     src="https://github-readme-stats.vercel.app/api?username=AdriaCortez&show_icons=true&theme=transparent&bg_color=090909&title_color=E63946&icon_color=FF6B81&text_color=F5F0F2&border_color=3D0718&hide_border=false"
     alt="GitHub Statistics"
   />
