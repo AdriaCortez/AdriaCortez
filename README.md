@@ -13,16 +13,9 @@
 ## 03. GITHUB MONITORING
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="./assets/language-scan.svg" width="400" alt="Language Scan">
-      </td>
-      <td>
-        <img src="./assets/commit-activity.svg" width="400" alt="Commit Activity">
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/language-scan.svg" width="400" alt="Language Scan">
+  &nbsp;&nbsp;
+  <img src="./assets/commit-activity.svg" width="400" alt="Commit Activity">
 </div>
 
 ---
